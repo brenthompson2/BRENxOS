@@ -7,6 +7,7 @@ README.md
 Welcome to BRENxOS V2.5, simulated operating system I designed for my Netcentric Computing class at Transylvania University. The operating system consists of the main Kernel which relies on a Scheduler, Process Table, and Memory Manager to handle the processes. There is also the Program Status Word (PSW) for process runtime information as well as a Semaphore to control access to a shared output buffer
 
 Compilation:
+	
 	To Compile and Link the Operating System type "make"
 
 	To Remove object, exe, and txt files type "make clean"
@@ -14,6 +15,7 @@ Compilation:
 	To run the Operating System type "./BRENxOS"
 
 Files:
+
 	The Kernel handles running the processes
 
 	The Scheduler manages the order that control is passed to the processes (.c and .h)
