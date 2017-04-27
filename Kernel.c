@@ -2,7 +2,7 @@
 // 04/09/17
 // Kernel.c
 //
-// Kernel that mimcs an OS handling Process Scheduling, Interupts, and System Calls
+// Kernel that mimics an OS handling Process Scheduling, Interupts, Memory Management, and System Calls
 
 // Header Files
 	#include "Kernel.h"
