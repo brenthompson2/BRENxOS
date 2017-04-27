@@ -22,10 +22,10 @@ Files:
 
 	The Process Table stores data in shared hardware for each process (PCBs) (.c and .h)
 
-	The Memory Manager controls virtual memory access using a frame table (.c and .hs)
+	The Memory Manager controls virtual memory access using a frame table (.c and .h)
 
 	The PSW (Program Status Word) handles information about the process's operation (.c and .h)
 
 	The Semaphore handles access to the shared output buffer (.c and .h)
 
-	Moses is where the processes and their code segments are held - Created by Dr. Endland
+	Moses is where the processes and their code segments are held - Created by Dr. England
